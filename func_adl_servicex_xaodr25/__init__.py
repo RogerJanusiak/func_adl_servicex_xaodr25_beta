@@ -218,9 +218,9 @@ else:
     from . import xaodtype
 
 # Include sub-namespace items
+from . import Muon
 from . import DataModel_detail
 from . import xAOD
 from . import ROOT
-from . import std
-from . import Muon
 from . import pmr
+from . import std

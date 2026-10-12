@@ -556,8 +556,8 @@ else:
     from . import jfextower_v1
 
 # Include sub-namespace items
-from . import CompositeParticle_v1
 from . import EventInfo_v1
-from . import TruthEvent_v1
 from . import JetConstituentVector
+from . import CompositeParticle_v1
+from . import TruthEvent_v1
 from . import TruthParticle_v1

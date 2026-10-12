@@ -32,6 +32,6 @@ else:
     from . import tschemarule
 
 # Include sub-namespace items
-from . import Detail
-from . import Fit
 from . import Math
+from . import Fit
+from . import Detail
